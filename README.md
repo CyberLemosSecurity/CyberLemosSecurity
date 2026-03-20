@@ -28,13 +28,11 @@
 - Labs realizados (TryHackMe, etc.)
 
 ## 🤳 Contact
-- LinkedIn: [(https://www.linkedin.com/in/david-andrade-5ab8b1168/)]
-- Email: seu email aqui
+- 🔗 [LinkedIn](https://www.linkedin.com/in/david-andrade-5ab8b1168/)
+- 📧 [E-mail](davidandradelemos@gmail.com)
 
 
 
-
-[linkedin]: https://www.linkedin.com/in/david-andrade-5ab8b1168/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
