@@ -4,7 +4,7 @@
 
 
 ## 🟦 Blue Team Projects
-- Windows Event Log Analysis
+- [Windows Event Log Analysis](https://github.com/CyberLemosSecurity/windows-event-log-analysis)
 - SIEM Lab (Wazuh)
 - Incident Response Simulation
 
