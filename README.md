@@ -5,7 +5,7 @@
 
 ## 🟦 Blue Team Projects
 - [Windows Event Log Analysis](https://github.com/CyberLemosSecurity/windows-event-log-analysis)
-- SIEM Lab (Wazuh)
+- [SIEM Lab (Wazuh)](https://github.com/CyberLemosSecurity/BlueTeamProject)
 - Incident Response Simulation
 
 ## 🖥️ Active Directory & Windows
