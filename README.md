@@ -14,7 +14,7 @@
 
 ## 🌐 Network & Firewall
 - FortiGate Lab
-- VPN Configuration
+- VPN Implantation
 
 ## ⚙️ Automation
 - Python Log Analyzer
