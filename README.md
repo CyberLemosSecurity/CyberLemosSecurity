@@ -14,7 +14,7 @@
 
 ## 🌐 Network & Firewall
 - [Remote Access IPsec VPN Implementation](https://github.com/CyberLemosSecurity/Secure-VPN-Implementation)
-- [Secure Network Protected-DMZ](https://github.com/CyberLemosSecurity/Secure-Network-Protected-DMZ)
+- [Secure Network Protected DMZ](https://github.com/CyberLemosSecurity/Secure-Network-Protected-DMZ)
 
 ## ⚙️ Automation
 - Python Log Analyzer
