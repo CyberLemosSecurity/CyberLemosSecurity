@@ -13,6 +13,7 @@
 - Bulk User Creation (PowerShell)
 
 ## 🌐 Network & Firewall
+- [Network Segmentation & Web Filtering](https://github.com/CyberLemosSecurity/Network-Segmentation-Web-Filtering)
 - [Remote Access IPsec VPN Implementation](https://github.com/CyberLemosSecurity/Secure-VPN-Implementation)
 - [Secure Network Protected DMZ](https://github.com/CyberLemosSecurity/Secure-Network-Protected-DMZ)
 
