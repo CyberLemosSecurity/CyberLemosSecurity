@@ -18,7 +18,7 @@
 - [Secure Network Protected DMZ](https://github.com/CyberLemosSecurity/Secure-Network-Protected-DMZ)
 
 ## ⚙️ Automation
-- Python Log Analyzer
+- [Python Log Analyzer](https://github.com/CyberLemosSecurity/Python-Log-Analyzer)
 - PowerShell Scripts
 
 ## 🧪 Advanced Security Projects
