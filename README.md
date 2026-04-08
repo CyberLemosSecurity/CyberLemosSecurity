@@ -19,7 +19,7 @@
 
 ## ⚙️ Automation
 - [Python Log Analyzer](https://github.com/CyberLemosSecurity/Python-Log-Analyzer)
-- PowerShell Scripts
+- [PowerShell Scripts](https://github.com/CyberLemosSecurity/PowerShell-Scripts)
 
 ## 🧪 Advanced Security Projects
 - File Integrity Monitor
