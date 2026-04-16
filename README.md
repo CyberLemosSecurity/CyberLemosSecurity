@@ -25,7 +25,7 @@
 - File Integrity Monitor
 - Ransomware Simulation (Educational)
 
-## 📺 Learning & Content
+## 📺 Hardening & System Administration
 - Labs realizados (TryHackMe, etc.)
 
 ## 🤳 Contact
