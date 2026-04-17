@@ -26,7 +26,7 @@
 - Ransomware Simulation (Educational)
 
 ## 📺 Hardening & System Administration
-- Labs realizados (TryHackMe, etc.)
+- [Linux Server Hardening](https://github.com/CyberLemosSecurity/Linux-Server-Hardening)
 
 ## 🤳 Contact
 - 🔗 [LinkedIn](https://www.linkedin.com/in/david-andrade-5ab8b1168/)
