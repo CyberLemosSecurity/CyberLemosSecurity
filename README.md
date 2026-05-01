@@ -22,8 +22,8 @@
 - [PowerShell Scripts](https://github.com/CyberLemosSecurity/PowerShell-Scripts)
 
 ## 🧪 Advanced Security Projects
--  [File Integrity Monitor](https://github.com/CyberLemosSecurity/File-Integrity-Monitor-FIM-)
-- Ransomware Simulation (Educational)
+- [File Integrity Monitor](https://github.com/CyberLemosSecurity/File-Integrity-Monitor-FIM-)
+- [Ransomware Simulation (Educational](https://github.com/CyberLemosSecurity/Ransomware-Simulation/tree/main)
 
 ## 📺 Hardening & System Administration
 - [Linux Server Hardening](https://github.com/CyberLemosSecurity/Linux-Server-Hardening)
