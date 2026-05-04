@@ -8,9 +8,6 @@
 - [SIEM Lab (Wazuh)](https://github.com/CyberLemosSecurity/BlueTeamProject)
 - [Incident Response Simulation](https://github.com/CyberLemosSecurity/IncidentResponseSimulation/tree/main)
 
-## 🖥️ Active Directory & Windows
-- AD Lab + GPOs
-- Bulk User Creation (PowerShell)
 
 ## 🌐 Network & Firewall
 - [Network Segmentation & Web Filtering](https://github.com/CyberLemosSecurity/Network-Segmentation-Web-Filtering)
